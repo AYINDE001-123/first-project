@@ -1,0 +1,689 @@
+ .wrapper{
+    width: 100%;
+    justify-content: center;
+    overflow: hidden;
+ }
+ .first{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+ }
+
+ body{
+    overflow-x: hidden;
+ }
+ .flutter{
+    width:300px ;
+    justify-content: center;
+    /* margin-bottom: 100px; */
+    /* border: 1px solid black; */
+ }
+ .enter{
+    display: flex;
+      font-size: 14px;
+      font-family: cursive;
+      list-style: none;
+      gap: 50px;
+      /* margin-top: 20px; */
+ }
+ .sign{
+    background-color: rgb(189, 186, 186);
+    /* padding: 19px 30px; */
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    /* margin-left: 0px; */
+ }
+.icon{
+   font-size: 30px;
+   display: none;
+}
+
+.endless{
+   color: #f28c52;
+   font-size: 90px;
+   margin: 20px 30px;
+   /* gap: -100px; */
+}
+.all{
+   color: black;
+   font-size: 90px;
+   margin: 0 30px;
+}
+h1{
+   margin: 0;
+   font-family: sans-serif;
+   margin-top:0px ;
+}
+.business{
+   width: 500px;
+   font-size: 21px;
+   margin: 30px 30px;
+}
+.hay {
+      background-color: #262c55;
+      font-size: 16px;
+      color: white;
+      margin: 0;
+      border-radius: 15px;
+      padding: 15px;
+      border: none;
+      margin: 0 30px;
+  }
+.button {
+      background-color: gray;
+      color: #262c55;
+      font-size: 16px;
+      padding: 12px;
+      border: none;
+      border-radius: 15px;
+   }
+.hero {
+     display: flex;
+     /* gap: 30px; */
+     padding-top: 100px;
+     position: relative;
+ }
+body {
+     overflow-x: hidden;
+ }
+
+ .woman {
+     /* position: absolute; */
+     /* left: -110px; */
+     /* width:100px ; */
+ }
+
+ .woman img {
+     width: 100px;
+     height: 550px;
+ }
+
+ .second img {
+     width: 450px;
+ }
+
+ .second {
+     position: absolute;
+     right: -10px;
+     top: -90px;
+ }
+ .second div{
+    position: absolute;
+ }
+ .send{
+   font-size: 21px;
+    /* width: 80%; */
+    /* position: absolute; */
+ }
+ /* .under{
+    position: absolute;
+    top: 750px;   
+ }
+ .under p{
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 0 100px; */
+ /* } */
+ .under{
+    font-size: 25px;
+    font-family: sans-serif;
+    /* margin: 0 100px; */
+    }
+.vector{
+    width: 80%;
+    margin: 30px;
+    margin-top: 100px;
+    /* gap: 100px; */
+}
+.uber{
+    width: 60px;
+}
+.mtn{
+    width: 63px;
+}
+.chip{
+    width: 95px;
+}
+.vest{
+    width: 110px;
+}
+.wise{
+    width: 110px;
+}
+.soft{
+    width: 100px;
+}
+.ace{
+    width: 90px;
+}
+.imagine{
+   display: flex;
+   justify-content: space-between;
+   
+}
+.color{
+    margin-top: 150px;
+}
+.less{
+   color: #f28c52;
+   font-size: 80px;
+   margin: 20px 30px;
+   /* gap: -100px; */
+}
+.al{
+   color: black;
+   font-size: 80px;
+   margin: 0 30px;
+}
+.end{
+    color: #f28c52;
+   font-size: 80px;
+   margin: 20px 30px;
+}
+
+.learn {
+      background-color: white;
+      color: orange;
+      font-size: 19px;
+      font-family: 'Times New Roman', Times, serif;
+      border: none;
+  }
+
+  .display {
+      display: flex;
+      gap: 50px;
+      margin: 200px 30px;
+
+  }
+
+  .bulk {
+      font-size: 22px;
+      font-family: sans-serif;
+      justify-content: space-between;
+  }
+
+.word{
+    font-size: 30px;
+}
+.smart{
+    width: 330px;
+    font-size: 25px;
+}
+.checkout{
+    width: 350px;
+    height: 600px;
+    box-shadow:black;
+}
+.incre{
+    margin-top: 100px;
+}
+.easy{
+    width: 350px;
+}
+.single{
+    width: 350px;
+    /* font-size: px; */
+}
+.ground{
+    background-color: rgb(255, 247, 247);
+}
+.margin{
+    margin:30px;
+    /* margin-top: 60px; */
+}
+.pay{
+    font-size: 70px;
+    /* justify-content: space-around; */
+}
+.ties{
+    font-size: 70px;
+}
+.mall{
+    font-size: 70px;
+    color: green;
+}
+.ree{
+    margin: 10px 100px;
+    
+}
+.yan{
+    display: flex;
+}
+.store{
+    font-size: 40px;
+    font-family: sans-serif;
+    margin: 30px;
+    margin-top: 300px;
+}
+.sell{
+    margin: 0 30px;
+    border-radius: 10px;
+    padding:10px 20px;
+    background-color:#0a0e27 ;
+    color: white;
+}
+.comm{
+    font-size: 25px;
+    width: 300px;
+    margin: 30px;
+    /* font-family: none; */
+}
+.yanga img{
+    width: 500px;
+    height: 700px;
+    position: relative;
+    bottom: -200px;
+    right: -100px;
+}
+.creator{
+    position: relative;
+    width: 650px;
+    margin: 100px;
+    top: -10px;
+}
+.pami{
+    display: flex;
+}
+.top{
+    margin-top: 280px;
+}
+.invoices{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.generate{
+    font-size: 22px;
+    width: 300px;
+}
+.get{
+    border: none;
+    background-color: white;
+    color: orangered;
+}
+.plat{
+    margin: 120px;
+    margin-top: -90px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+ @media(max-width:900px){
+    .list {
+      display: none;
+    }
+    .sign{
+      display: none;
+    }
+    .icon{
+      display: block;
+    }
+    .imagine{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        gap: 30px;
+    }
+    .display{
+        flex-direction: column;
+    }
+    .woman{
+        width: 500px;
+    }
+    .second img {
+        /* overflow: hidden; */
+        width: 400px;
+         /* width: 500px; */
+         /* left: 1000px; */
+         /* right: -60px; */
+     }
+    .smart{
+        width: 870px;
+    }
+    .pay{
+        font-size: 50px;
+    }
+    .ties{
+        font-size: 50px;
+    }
+    .mall{
+        font-size: 50px;
+    }
+    .word{
+        /* font-size: 20px; */
+    }
+    .easy{
+         width: 870px;
+    }
+    .single{
+        width: 870px;
+    }
+    .yan{
+        flex-direction: column;
+        width: 100%;
+        /* flex-direction: column-reverse; */
+    }
+    .yanga img{
+        width: 100%;
+    }
+    .pami{
+        flex-direction: column;
+        flex-direction: column-reverse;
+        margin: 0;
+    }
+    .plat{ 
+        margin-top: 30px;
+    }
+    .creator{
+        top: 100px;
+    }
+    .ree{
+        width: 00px;
+    }
+    .creator{
+        width: 100%;
+    }
+ }
+  /* @media (max-width:1000px) { */
+    /* .second img{ */
+    /* width: 200px; */
+
+    /* } */
+  /* } */
+
+
+ @media(max-width:600px){
+   .endless{
+      display: flex;
+      font-size: 50px;
+   }
+   .all{
+      font-size: 50px;
+   }
+   .business{
+      font-size: 19px;
+   }
+ }
+ @media(max-width:480px){
+   .business{
+      font-size: 25px;
+   }
+ }
+ @media(max-width:430px){
+   .business{
+      font-size: 28px;
+   }
+ }
+ @media(max-width:577px){
+        .line{
+            display: flex;
+        }
+  }
+  @media(max-width:1200px) {
+     .woman img {
+         width: 600px;
+     }
+
+     .second img {
+        /* overflow: hidden; */
+        width: 400px;
+         /* width: 500px; */
+         /* left: 1000px; */
+         /* right: -60px; */
+     }
+     body{
+      width: 100%;
+      /* overflow: hidden; */
+     }
+     .business{
+        width: 320px;
+     }
+     .icon{
+        /* font-size: 19px; */
+     }
+     .fluttter{
+        font-size: 30px;
+        width: 10px;
+        overflow-x: hidden;
+
+     }
+
+     .yan{
+        /* width: 30px; */
+     }
+ }
+
+     header {
+         /* width: 93%; */
+     }
+
+     .woman img {
+         width:100%;
+     }
+     .second img {
+         /* width: 600px; */
+         /* height: 400px; */
+         /* right: -1000px; */
+     }
+     .vector{
+        /* margin: 180px; */
+     }
+ /* } */
+@media(max-width:850px) {
+     .woman img {
+         width: 400px;
+     }
+
+     .second img {
+         width: 350px;
+     }
+ }
+
+ @media(max-width:750px) {
+     .hero {
+         flex-direction: column;
+         position: static;
+         width: 100%;
+         margin: auto;
+     }
+     
+     .woman {
+         position: static;
+         width: 100%;
+     }
+
+     .second {
+         position: static;
+         width: 100%;
+         display: flex;
+         flex-direction: column-reverse;
+     }
+     .second div{
+        position: static;
+     }
+
+     .woman img {
+         width: 100%;
+     }
+
+     .second img {
+         width: 100%;
+     }
+ }
+ @media(max-width:1000px){
+    .yanga{
+        position: relative;
+        width: 500px;
+        left: -200px;
+    }
+    .creator{
+        width: 500px;
+        height: 600px;
+    }
+    .top{
+        /* gap: -30px; */
+        left: -270px;
+
+    }
+ }
+ @media(max-width:500px){
+
+    .vector{
+        margin: 0;
+        margin-top:50px;
+        /* font-size: 16px; */
+        /* font-family: none; */
+    }
+    .under{
+        font-size: 20px;
+    }
+    .imagine
+    .smart{
+        width: 100px;
+        font-size: 10px;
+    }
+
+    .word{
+        font-size: 25px;
+    }
+    .easy{
+        width: 400px;
+        font-size: 20px;
+    }
+    .accept{
+        font-size: 20px;
+    }
+    .single{
+        width: 400px;
+        font-size: 20px;
+    }
+    .imagine{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 30px;
+    }
+    /* .color{ */
+        /* gap: -20px; */
+    /* } */
+    .less{
+        font-size: 40px;
+    }
+    .end{
+        font-size: 40px;
+    }
+    .al{
+        font-size: 40px;
+    }
+    
+ 
+ }
+
+ @media(max-width:400px){
+    .smart{
+        width: 300px;
+        font-size: 20px;
+    }
+
+    .word{
+        font-size: 25px;
+    }
+    .easy{
+        width: 300px;
+        font-size: 20px;
+    }
+    .accept{
+        font-size: 20px;
+    }
+    .single{
+        width: 300px;
+        font-size: 20px;
+    }
+    .imagine{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 30px;
+    }
+    /* .color{ */
+        /* gap: -20px; */
+    /* } */
+    .less{
+        font-size: 40px;
+    }
+    .end{
+        font-size: 40px;
+    }
+    .al{
+        font-size: 40px;
+    }
+    
+ }
+ @media(max-width:300px){
+    .hay{
+        font-size: 11px;
+        padding: 5px;
+    }
+    .wrapper{
+        gap: -20px;
+    }
+    .business{
+        font-size: 18px;
+        width: 210px;
+    }
+    .flutter{
+        width: 190px;
+    }
+    .icon{
+        width: 20px;
+        margin-right: 60px;
+    }
+    .endless{
+        font-size: 38px;
+    }
+    .under{
+        font-size: 16px;
+        width: 290px;
+    }
+    .imagine{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+    }
+    .color{
+        width: 300px;
+    }
+    .less{
+        margin: 0;
+        font-size: 40px;
+    }
+    .end{
+        font-size: 35px;
+        /* width: 50px; */
+        margin: 0;
+    }
+    .al{
+        margin: 0;
+        font-size: 40px;
+    }
+    .single{
+        width: 250px;
+    }
+    .easy{
+        width:250px;
+    }
+    .checkout{
+        width: 250px;
+    }
+    .smart{
+        width: 250px;
+    }
+ }
+ 
